@@ -2,7 +2,7 @@
 
 Yet Another Encrypted Notepad - a Notepad-like simple text editor where files are saved (and later loaded) encrypted with industrial strength algorithms. Available both for the desktop (as a Java application) and on Android.
 
-Desktop and encryption part шы based on originl [Encrypted Notepad](https://sourceforge.net/projects/enotes)
+Desktop and encryption part is based on originl [Encrypted Notepad](https://sourceforge.net/projects/enotes)
 
 Desktop application
 
