@@ -6,12 +6,16 @@ Desktop and encryption part based on originl [Encrypted Notepad](https://sourcef
 
 Desctop application
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/05_desktop_app.png" >
+
 YAEN main screen
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/01_text.png" width="300">
+
 YAEN recent files list
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/02_recent_files.png" width="300">
+
 YAEN swipe
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/03_recent_files_swipe.png" width="300">
+
 YAEN settings
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/04_settings.png" width="300">
 
