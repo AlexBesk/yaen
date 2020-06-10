@@ -41,4 +41,4 @@ The downside is that the app is losing its state, so it's better to use Paranoid
 Source is released (on GitHub) under the BSD license.
 
 # Contact
-<alex.bes.work@gmail.com>
+<alex.bes.work..gmail.com>
