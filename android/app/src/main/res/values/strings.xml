@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">YAEN</string>
+    <string name="app_full_name">Yet Another Encrypted Notepad</string>
+    <string name="menu_new">New</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_info">Info</string>
+    <string name="menu_close">Close</string>
+    <string name="menu_settings">Settings</string>
+    <string name="menu_save_asoff">Save</string>
+    <string name="menu_save_ason">Save (auto is ON)</string>
+    <string name="menu_save_as">Save as</string>
+    <string name="default_text">Type here...</string>
+    <string name="pwd_enter">Enter password:</string>
+    <string name="filename_enter">Enter filename:</string>
+    <string name="OK">OK</string>
+    <string name="Yes">Yes</string>
+    <string name="No">No</string>
+    <string name="Cancel">Cancel</string>
+    <string name="new_document">New document</string>
+    <string name="app_title">%s - YAEN</string>
+    <string name="file_saved">File saved as &quot;%s&quot;</string>
+    <string name="about_text">Yet Another Encrypted Notepad\n v%1$s\nCopyright (c) 2020. Alex B\nBased on original
+        Encrypted Notepad Copyright (c) 2011. Ivan Voras\n\nContact &amp; support:\nalex.bes.work@gmail.com\nhttps://github.com/AlexBesk/yaen\n\nReleased under the BSDL.\n\nUsing %2$s\n\nFile name:\n%3$s</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="startup_header">Startup</string>
+    <string name="startup_title">Show last used files</string>
+    <string name="startup_on">Remember and then show recent used files on start screen</string>
+    <string name="startup_off">No, thanks\n</string>
+    <string name="editor_header">Editor</string>
+    <string name="paranoid_title">Paranoid Mode</string>
+    <string name="paranoid_on">Be (more) paranoid about displaying text after app inactivity</string>
+    <string name="paranoid_off">No, thanks, I am OK\n</string>
+    <string name="undo">Undo</string>
+    <string name="menu_redo">Redo</string>
+    <string name="autosave_off">Save the file manually</string>
+    <string name="autosave_on">Automatically save a file</string>
+    <string name="autosave_title">File autosave</string>
+    <string name="savefile_title">Save file</string>
+    <string name="savefile_message">The file %1$s was changed.\n\nSave the file?\n\n</string>
+    <string name="no_recent_files">No recent files</string>
+    <string name="recent_files_title">Recent files</string>
+    <string name="warning">Warning!</string>
+    <string name="lose_cahnges">As a result of the set Paranoid Mode On, you will lose all your changes!\n\n\nDo you want to continue?</string>
+    <string name="password_for_file">Password for file: %1$s</string>
+    <string name="directory_is">Directory is: %1$s</string>
+</resources>

@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">YAEN</string>
+    <string name="app_full_name">Yet Another Encrypted Notepad</string>
+    <string name="menu_new">Создать</string>
+    <string name="menu_open">Открыть</string>
+    <string name="menu_info">Инфо</string>
+    <string name="menu_close">Закрыть</string>
+    <string name="menu_settings">Настройки</string>
+    <string name="menu_save_asoff">Сохранить</string>
+    <string name="menu_save_ason">Сохранить (авто включено)</string>
+    <string name="menu_save_as">Сохранить как</string>
+    <string name="default_text">Текст заметки...</string>
+    <string name="pwd_enter">Пароль:</string>
+    <string name="filename_enter">Имя файла:</string>
+    <string name="OK">OK</string>
+    <string name="Yes">Да</string>
+    <string name="No">Нет</string>
+    <string name="Cancel">Отмена</string>
+    <string name="new_document">Новый файл</string>
+    <string name="app_title">%s - YAEN</string>
+    <string name="file_saved">Файл сохранен как &quot;%s&quot;</string>
+    <string name="about_text">Yet Another Encrypted Notepad\n v%1$s\nCopyright (c) 2020. Alex B\nBased on original
+        Encrypted Notepad Copyright (c) 2011. Ivan Voras\n\nContact &amp; support:\nalex.bes.work@gmail.com\nhttps://github.com/AlexBesk/yaen\n\nReleased under the BSDL.\n\nИспользуется %2$s\n\nИмя файла:\n%3$s</string>
+    <string name="title_activity_settings">Настройки</string>
+
+    <string name="startup_header">При старте</string>
+    <string name="startup_title">Показывать последние открытые файлы</string>
+    <string name="startup_on">Запоминать и показывать последние открытые файлы при запуске программы</string>
+    <string name="startup_off">Нет, спасибо\n</string>
+    <string name="editor_header">Редактор текста</string>
+    <string name="paranoid_title">Параноид режим</string>
+    <string name="paranoid_on">Быть (более) параноидальным и не давать системе сохранять текст во внутреннем буфере при скрытии приложения с экрана</string>
+    <string name="paranoid_off">Нет, спасибо. Я в норме\n</string>
+    <string name="undo">Отменить</string>
+    <string name="menu_redo">Повторить</string>
+    <string name="autosave_off">Сохранять файл вручную</string>
+    <string name="autosave_on">Автоматически сохранять файл</string>
+    <string name="autosave_title">Автосохранение файла</string>
+    <string name="savefile_title">Сохранить файл</string>
+    <string name="savefile_message">Файл %1$s был изменен.\n\nСохранить изменения?\n\n</string>
+    <string name="no_recent_files">Нет сохраненных файлов</string>
+    <string name="recent_files_title">Ранее открытые файлы</string>
+    <string name="warning">Внимание!</string>
+    <string name="lose_cahnges">Из-за включенного Параноид режима вы потеряете все ваши изменения!\n\nПродолжить?</string>
+    <string name="password_for_file">Пароль для файла: %1$s</string>
+    <string name="directory_is">Папка: %1$s</string>
+</resources>

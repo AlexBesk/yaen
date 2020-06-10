@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="enotes:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/enotes_jar</output-path>
+    <root id="archive" name="enotes.jar">
+      <element id="module-output" name="enotes" />
+    </root>
+  </artifact>
+</component>
