@@ -4,7 +4,7 @@ Yet Another Encrypted Notepad - a Notepad-like simple text editor where files ar
 
 Desktop and encryption part based on originl [Encrypted Notepad](https://sourceforge.net/projects/enotes)
 
-Desctop application
+Desktop application
 
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/05_desktop_app.png" >
 
