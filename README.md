@@ -4,6 +4,17 @@ Yet Another Encrypted Notepad - a Notepad-like simple text editor where files ar
 
 Desktop and encryption part based on originl [Encrypted Notepad](https://sourceforge.net/projects/enotes)
 
+Desctop application
+<img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/05_desktop_app.png" >
+YAEN main screen
+<img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/01_text.png" width="300">
+YAEN recent files list
+<img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/02_recent_files.png" width="300">
+YAEN swipe
+<img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/03_recent_files_swipe.png" width="300">
+YAEN settings
+<img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/04_settings.png" width="300">
+
 Original description:
 
 Encrypted Notepad is a very simple to use application providing state of the art industrial-strength encryption to users who want nothing more than to store sensitive information in text documents. Users can be completely at ease in the security provided by Encrypted Notes because it follows best practices in dealing with encryption algorithms and does not try to do anything that is not standard procedure. This is important because "being too clever" is one of the most common reasons for security failures in the application of cryptography.
