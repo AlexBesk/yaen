@@ -4,10 +4,6 @@ Yet Another Encrypted Notepad - a Notepad-like simple text editor where files ar
 
 Desktop and encryption part is based on originl [Encrypted Notepad](https://sourceforge.net/projects/enotes) by Ivan Voras
 
-Desktop application
-
-<img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/05_desktop_app.png" >
-
 YAEN Android app main screen
 
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/01_text.png" width="300">
@@ -23,6 +19,11 @@ YAEN swipe
 YAEN settings
 
 <img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/04_settings.png" width="300">
+
+Desktop application
+
+<img src="https://raw.github.com/AlexBesk/yaen/master/doc/images/05_desktop_app.png" >
+
 
 Original description:
 
